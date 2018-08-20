@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/zeroNav/zeronav.github.io#readme",
   "dependencies": {
+    "fs-extra": "^7.0.0",
     "yamljs": "^0.3.0"
   }
 }

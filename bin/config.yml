@@ -1,0 +1,32 @@
+# COPY markdown files to:
+folder: 'nav'
+# Don't copy these folder
+extra: 'private'
+
+# vuepress config
+
+# nav: 
+#   develop: '/coding'
+#   blogs: '/blogs'
+
+vuepress: 
+  base: '/'
+  title: 'Zero Navigation'
+  description: 'Just let in links!'
+  head:
+    - 'meta'
+    - name: 'keywords'
+      content:
+        - 'zero'
+        - 'zero navigation'
+        - 'develop navigation'
+        - 'blog navigation'
+        - 'coding navigation'
+  dest: 'public'
+  # ga: 'UA-xxxxx-1'
+  # theme: 'woo'
+  serviceWorker: true
+  themeConfig:
+    repo: 'zeronav/zeronav.github.io'
+    editLinks: true
+    nav: 
