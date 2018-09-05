@@ -1,7 +1,9 @@
 # COPY markdown files to:
 folder: 'nav'
 # Don't copy these folder
-extra: 'private'
+extra: 
+  - 'private'
+  - 'README.md'
 
 # vuepress config
 

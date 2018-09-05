@@ -5,7 +5,7 @@
  */
 
 const fs = require('fs')
-const util = require('util')
+// const util = require('util')
 const FS = require('fs-extra')
 const PATH = require('path')
 const YAML = require('yamljs')
@@ -52,14 +52,15 @@ const initVuepress = () => new Promise(resolve => {
         }
     })
     vuepress.themeConfig.nav = nav
-    fs.writeFileSync(`${ folder }/config.js`, `/*\n* Vuepress Configuration Genetated Automaticallly\n* Author: ZeroNav\n*/\nmodule.exports = ${ JSON.stringify(vuepress, null, 2) }`)
+    /* Write configure file content to config.js */
+    const ctx = JSON.stringify(vuepress, null, 2).replace(/"(.+?)": /g, '$1: ')
+    fs.writeFileSync(`${ folder }/config.js`, `/*\n* Vuepress Configuration Genetated Automaticallly\n* Author: ZeroNav\n*/\nmodule.exports = ${ ctx }`)
     resolve()
 })
 
 /* 1. build folder for build */
-// copyFolder()
 
-/* TEST */
+/* RUN */
 copyFolder().then(() => {
     initVuepress()
 }).catch(err => {
