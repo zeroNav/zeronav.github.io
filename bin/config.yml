@@ -30,5 +30,5 @@ vuepress:
   serviceWorker: true
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
-    editLinks: true
+    editLinks: false
     nav: 
