@@ -52,9 +52,20 @@ const initVuepress = () => new Promise(resolve => {
         }
     })
     vuepress.themeConfig.nav = nav
+    vuepress.chainWebpack = 'chain'
+
     /* Write configure file content to config.js */
-    const ctx = JSON.stringify(vuepress, null, 2).replace(/"(.+?)": /g, '$1: ')
-    fs.writeFileSync(`${ folder }/config.js`, `/*\n* Vuepress Configuration Genetated Automaticallly\n* Author: ZeroNav\n*/\nmodule.exports = ${ ctx }`)
+    const ctx = JSON.stringify(vuepress, null, 2).replace(/"(.+?)": /g, '$1: ').replace(/"(chain)"/, '$1')
+
+    fs.writeFileSync(
+        `${ folder }/config.js`,
+        `/*
+* Vuepress Configuration Genetated Automaticallly
+* Author: ZeroNav
+* */
+const chain = require('../../bin/chain.js')
+module.exports = ${ ctx }`
+    )
     resolve()
 })
 

@@ -26,9 +26,26 @@ vuepress:
         - 'coding navigation'
   dest: 'public'
   # ga: 'UA-xxxxx-1'
-  # theme: 'woo'
   serviceWorker: true
+  markdown:
+    toc:
+      includeLevel: 
+        - 2
+        - 3
+        - 4
+
+  theme: 'meteorlxy'
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
     editLinks: false
-    nav: 
+    nav:
+    # meteorlxy setting
+    personalInfo:
+      nickname: 'ZeroNav'
+      description: 'Just let in links!'
+      email: 'none'
+      location: 'Earth'
+      organization: 'ZeroNav Net'
+    headerBackground:
+      useGeo: true
+    lastUpdated: true
