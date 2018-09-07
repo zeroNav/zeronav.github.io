@@ -8,10 +8,6 @@ install:
   - npm install
 script:
   - npm start
-  - git clone https://github.com/zeroNav/vuepress-theme-nav.git --branch master ./nav/.vuepress/theme
-  - cd ./nav/.vuepress/theme
-  - npm i
-  - cd ../../../
   - npm run build
 deploy:
   provider: pages
