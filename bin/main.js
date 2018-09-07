@@ -47,7 +47,8 @@ const initVuepress = () => new Promise(resolve => {
         if (!extra.includes(d)){
             nav.push({
                 text: d,
-                link: `/${ d }/`
+                link: `/${ d }/`,
+                exact: false
             })
         }
     })
