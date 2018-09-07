@@ -29,12 +29,12 @@ vuepress:
         - 3
         - 4
 
-  # theme: 'meteorlxy'
+  theme: 'nav'
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
     editLinks: false
     nav:
-    # meteorlxy setting
+    # navTheme setting
     personalInfo:
       nickname: 'ZeroNav'
       description: 'Just let in links!'
