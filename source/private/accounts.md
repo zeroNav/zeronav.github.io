@@ -1,3 +1,9 @@
+---
+sidebar: auto
+---
+
+# Net Accounts
+
 ## `000webhost`
 
 [000webhost](http://files.000webhost.com)

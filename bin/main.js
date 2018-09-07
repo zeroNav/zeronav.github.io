@@ -66,6 +66,7 @@ const initVuepress = () => new Promise(resolve => {
 const chain = require('../../bin/chain.js')
 module.exports = ${ ctx }`
     )
+
     resolve()
 })
 

@@ -6,11 +6,6 @@ extra:
   - 'README.md'
 
 # vuepress config
-
-# nav: 
-#   develop: '/coding'
-#   blogs: '/blogs'
-
 vuepress: 
   base: '/'
   title: 'Zero Navigation'
@@ -34,7 +29,7 @@ vuepress:
         - 3
         - 4
 
-  theme: 'meteorlxy'
+  # theme: 'meteorlxy'
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
     editLinks: false
