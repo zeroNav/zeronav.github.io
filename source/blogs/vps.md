@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+layout: post
 ---
 
 # 各大VPS主机商优惠活动大全
