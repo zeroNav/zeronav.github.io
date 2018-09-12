@@ -83,6 +83,7 @@ sidebar: auto
 + [腾讯文档](https://docs.qq.com/desktop/ "在线协作编辑，轻便快速")
 + [有道云笔记](http://note.youdao.com/)
 + [百度脑图](http://naotu.baidu.com/)
++ [键鼠共享synergy](https://www.brahma.world/synergy-stable-builds/)
 
 ## 网盘/同步盘
 
