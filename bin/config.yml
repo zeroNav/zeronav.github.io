@@ -42,7 +42,7 @@ vuepress:
       email: 'zero#zero.github.io'
       location: 'Utopia'
       organization: 'Link Colection'
-      avator: '/assets/zero.png',
+      avator: '/assets/zero.png'
     headerBackground:
       useGeo: true
     lastUpdated: true
