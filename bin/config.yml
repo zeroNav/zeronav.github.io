@@ -30,7 +30,7 @@ vuepress:
         - 3
         - 4
 
-  theme: 'nav'
+  theme: 'meteorlxy'
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
     editLinks: true
