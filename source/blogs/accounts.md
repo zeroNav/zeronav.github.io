@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 layout: post
-title: Net Accounts
+title: Web Accounts
 ---
 
 ## `000webhost`

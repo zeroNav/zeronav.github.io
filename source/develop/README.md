@@ -1,7 +1,8 @@
 ---
 sidebar: auto
-title: 前端导航
 ---
+
+## 前端导航
 
 + [IDE](./ide.md)
 + [wechat-miniapp](./weapp.md)
