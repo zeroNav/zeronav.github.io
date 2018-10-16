@@ -1,9 +1,7 @@
 ---
 sidebar: auto
----
-
-# 前端导航
-
+layout: category
+title: 前端导航
 ---
 
 + [IDE](./ide.md)

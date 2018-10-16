@@ -1,9 +1,8 @@
 ---
 sidebar: auto
 layout: post
+title: 各大VPS主机商优惠活动大全
 ---
-
-# 各大VPS主机商优惠活动大全
 
 **最新超值优惠——VULTR活动**
 

@@ -1,8 +1,8 @@
 ---
 sidebar: auto
+layout: post
+title: Net Accounts
 ---
-
-# Net Accounts
 
 ## `000webhost`
 
@@ -15,7 +15,6 @@ FTP: Z14****OOO
 ```
 
 
-
 ## `Apponfly`
 
 [Apponfly](https://www.apponfly.com/)
@@ -24,7 +23,6 @@ FTP: Z14****OOO
 Login: noo@pokemail.net 
 Password: software146
 ```
-
 
 
 ## `Textnow`
@@ -38,7 +36,6 @@ number: (917) 791-6467
 ```
 
 
-
 ## `Telegram Web`
 
 [telegram·online](https://web.telegram.org)
@@ -47,7 +44,6 @@ number: (917) 791-6467
 account: 9177916467
 pwd: 6*******A**
 ```
-
 
 
 ## `Namaho`
@@ -60,7 +56,6 @@ password: 15*****n**
 ```
 
 
-
 ## `SSRU`
 
 [SSRU](http://www.ssru.ml/register/13443/QYAFDHNI)
@@ -69,4 +64,3 @@ password: 15*****n**
 account: lumia**@xxx.xx
 password: 15******A*
 ```
-

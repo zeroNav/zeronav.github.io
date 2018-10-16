@@ -3,6 +3,7 @@ folder: 'nav'
 # Don't copy these folder
 extra: 
   - 'private'
+  - 'assets'
   - 'README.md'
 
 # vuepress config
@@ -32,15 +33,16 @@ vuepress:
   theme: 'nav'
   themeConfig:
     repo: 'zeronav/zeronav.github.io'
-    editLinks: false
+    editLinks: true
     nav:
     # navTheme setting
     personalInfo:
-      nickname: 'ZeroNav'
-      description: 'Just let in links!'
-      email: 'none'
-      location: 'Earth'
-      organization: 'ZeroNav Net'
+      nickname: 'Zero'
+      description: 'Love Freedom!'
+      email: 'zero#zero.github.io'
+      location: 'Utopia'
+      organization: 'Link Colection'
+      avator: '/assets/zero.png',
     headerBackground:
       useGeo: true
     lastUpdated: true
