@@ -4,8 +4,6 @@ sidebar: auto
 
 # 友情链接
 
----
-
 ## 网上邻居
 
 + [设计笔记·GSKY](https://biji.io/)
