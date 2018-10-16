@@ -25,16 +25,6 @@ title: 友情链接
 + [道义的笔记本](https://luodaoyi.com/)
 + [不死鸟](https://lai.yuweining.cn/)
 
-## 大厂
-
-+ [腾讯前端团队·IMWEB](http://imweb.io/topic/tab/all)
-
-## WordPress
-
-+ [WP大学·WP主题](http://www.wpdaxue.com/)
-+ [V7V3·WP主题](http://v7v3.com)
-+ [wp酷·WP主题](http://www.mywpku.com)
-
 ## 大神出没
 
 + [张鑫旭](http://www.zhangxinxu.com/wordpress/)
@@ -57,6 +47,16 @@ title: 友情链接
 + [热血洒红尘](http://rxshc.com/)
 + [西门的后花园](http://ons.me/)
 + [司徒正美](http://www.cnblogs.com/rubylouvre/)
+
+## 大厂
+
++ [腾讯前端团队·IMWEB](http://imweb.io/topic/tab/all)
+
+## WordPress
+
++ [WP大学·WP主题](http://www.wpdaxue.com/)
++ [V7V3·WP主题](http://v7v3.com)
++ [wp酷·WP主题](http://www.mywpku.com)
 
 ## 主机/域名
 
