@@ -1,6 +1,5 @@
 ---
 sidebar: auto
-layout: category
 title: 前端导航
 ---
 
