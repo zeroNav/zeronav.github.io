@@ -64,3 +64,25 @@ password: 15*****n**
 account: lumia**@xxx.xx
 password: 15******A*
 ```
+
+## `DropBox`
+
+[DropBox](https://www.dropbox.com/referrals/AACU43AbZLRyF7dqWF-kHeifv1bE2JaMqsA?src=global9)
+
+```bash
+account: 
+bjr8azjqm@my365.tw
+bjyo_u257@my365.tw
+bkgc7jh57@my365.tw
+hyr1ds2c7@my365.tw
+byga0pp9x@free365.ooo
+byjkbu65x@free365.tw
+hkx9dup5q@officevip.club
+mtbox@sysu.edu.pl
+bkdwmy0c7@abcda.tech
+box@od.office365vip.cn
+rkzoxg0q7@mail.ac.id
+box@mail.xgdfz.tech
+db@sysu.edu.pl
+drop@officevip.club
+password: 15****am
