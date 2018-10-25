@@ -9,7 +9,6 @@ title: Web Accounts
 [不限大小上传下载·永久留存](https://xbsfcursotamandareg12br-my.sharepoint.com/:f:/g/personal/box_mail_hrka_net/EoBafrImmDFHt4cFhUzH3DEB7GoJmbCgtGSFwq4k0t3Q0g)
 
 
-
 ## `000webhost`
 
 [000webhost](http://files.000webhost.com)
@@ -65,6 +64,15 @@ password: 15*****n**
 ## `SSRU`
 
 [SSRU](http://www.ssru.ml/register/13443/QYAFDHNI)
+
+```bash
+account: lumia**@xxx.xx
+password: 15******A*
+```
+
+## WindScribe
+
+[WindScribe](https://windscribe.com/?friend=msj8dr01)
 
 ```bash
 account: lumia**@xxx.xx
