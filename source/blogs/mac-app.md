@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 layout: post
-title: vagrant terminal
+title: MacOS 软件清单
 ---
 
 ## MacOS 软件清单
