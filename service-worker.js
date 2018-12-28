@@ -21,10 +21,10 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "74f4e0049b9cfbd7ecd3f2f660680835"
+    "revision": "d132f6f11ba0d371bae87a14c87b93c1"
   },
   {
-    "url": "assets/css/0.styles.94d03eb2.css",
+    "url": "assets/css/0.styles.789c0ac7.css",
     "revision": "14a656f0cb878c5ab67c1abed8d59f80"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "revision": "6929525a1c7336f82e295683172a3261"
   },
   {
-    "url": "assets/js/vendor.commons.94d03eb2.js",
-    "revision": "6962fea6c73b7b314bebaa22064b50ba"
+    "url": "assets/js/vendor.commons.789c0ac7.js",
+    "revision": "f8c13c0d5dcf5bc6685a08650f96d65c"
   },
   {
     "url": "assets/js/vendor.vue.ec309bc8.js",
@@ -97,59 +97,59 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/accounts.html",
-    "revision": "2c12b7d611e36605f8ce134e2a7e8828"
+    "revision": "728f53030f0bcfc96f0289beaec56bcb"
   },
   {
     "url": "blogs/BeyondCompare.html",
-    "revision": "8c1f6e135a356792095c6a219647644b"
+    "revision": "516497b5be3537e01a20f79fa9ec8efe"
   },
   {
     "url": "blogs/index.html",
-    "revision": "3d3cf52f77ca3ce464824b058514cefc"
+    "revision": "9fb4472feb44116adc7fd9fa73b06231"
   },
   {
     "url": "blogs/mac-app.html",
-    "revision": "4e951ca297c9deda53204d435e688e68"
+    "revision": "ee3c2bcc29a4b7f0c2ee5be00381f316"
   },
   {
     "url": "blogs/vagrant.html",
-    "revision": "c21fb17f3312f608a58e174a3eb05dee"
+    "revision": "c4b3d24db9851b326937dda2b4555dfe"
   },
   {
     "url": "blogs/vps.html",
-    "revision": "ae8ac62b3c72c5a9416b481c3977a206"
+    "revision": "f1e0bea6fcd98efd622d80953597a049"
   },
   {
     "url": "develop/doc.html",
-    "revision": "5a37e87988b49558b19b37d428953a49"
+    "revision": "6ee6a600445cb277a26311893e4ad4e7"
   },
   {
     "url": "develop/frame.html",
-    "revision": "0584185f7f54f74de040d40893a076b4"
+    "revision": "cd1fbf5622298f79510c9f4b106abe0a"
   },
   {
     "url": "develop/ide.html",
-    "revision": "22286ee9e41bf61ed7e3f543f94e51b0"
+    "revision": "db78676ea7700c2d8db21136ebf740a9"
   },
   {
     "url": "develop/index.html",
-    "revision": "3a683c11c9479becca55f6ec3075445f"
+    "revision": "27bd192ab5fcd212ad46be8b512102ab"
   },
   {
     "url": "develop/map.html",
-    "revision": "ac65c7b65bf8df796b13c1423e2fe4c5"
+    "revision": "875c63648755d0dac6b4ea2770a24c85"
   },
   {
     "url": "develop/others.html",
-    "revision": "a4130411aac2243d91553b60c08ffc08"
+    "revision": "01f48bc8c95da4f2e6d3bd041f573c67"
   },
   {
     "url": "develop/weapp.html",
-    "revision": "f38caf40fc808dd78b74cbb57453333d"
+    "revision": "ad3f6d28816867af25c77d2b9ba307e3"
   },
   {
     "url": "index.html",
-    "revision": "7d90f9f770be32be8618f0822a7577dd"
+    "revision": "21174905cb52f483d3d37d2637ffb711"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
