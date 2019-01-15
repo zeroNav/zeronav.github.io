@@ -78,3 +78,10 @@ password: 15******A*
 account: lumia**@xxx.xx
 password: 15******A*
 ```
+
+## charles 激活码
+```bash
+Registered Name:https://zhile.io
+
+License Key: 48891cf209c6d32bf4
+```
