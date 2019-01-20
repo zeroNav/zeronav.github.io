@@ -8,7 +8,13 @@ title: 各大VPS主机商优惠活动大全
 
 ## Vultr主机优惠
 
+<a href="https://www.vultr.com/?ref=7782144-4F"><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a>
+
+**新用户专享，注册即送$50美金!点击上图⬆️️️️️️️⬆️⬆️⬆️😄**
+
 如果不介意，可以先点击我的[推荐链接](https://www.vultr.com/?ref=7368831)，注意，点击打开后，先不要注册！
+
+> 以下活动已过期
 
 然后，从优惠入口：[vultr新用户注册充5美元送28美元](https://www.vultr.com/promo25b?service=promo25b&ref=7368831)进入页面，填写新的邮箱和密码（密码要带大小写字母加数字）
 
