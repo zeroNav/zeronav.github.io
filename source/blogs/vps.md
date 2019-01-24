@@ -8,7 +8,9 @@ title: 各大VPS主机商优惠活动大全
 
 ## Vultr主机优惠
 
-<a href="https://www.vultr.com/?ref=7782144-4F"><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a>
+<!-- <a href=https://www.vultr.com/?ref=7782144-4F""><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a> -->
+
+[![](https://www.vultr.com/media/banner_3.png)](https://www.vultr.com/?ref=7782144-4F)
 
 **新用户专享，注册即送$50美金!点击上图⬆️️️️️️️⬆️⬆️⬆️😄**
 
