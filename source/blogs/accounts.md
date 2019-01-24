@@ -19,6 +19,9 @@ PWD: Z14****A
 FTP: Z14****OOO
 ```
 
+## `Glyptodon`
+
+[Glyptodon](https://demo.glyptodon.com/)
 
 ## `Apponfly`
 
@@ -77,11 +80,4 @@ password: 15******A*
 ```bash
 account: lumia**@xxx.xx
 password: 15******A*
-```
-
-## charles 激活码
-```bash
-Registered Name:https://zhile.io
-
-License Key: 48891cf209c6d32bf4
 ```
