@@ -63,3 +63,7 @@ sidebar: auto
 ### 插件
 
 + [Hammer](http://hammerjs.github.io/ "极简的手势js库")
+
+### dingding developing
+
++ [dingdingApk](http://g.alicdn.com/dingding/open-dev/0.1.8/4.3.0/10002068@Rimet-dingtalk-dev-4.3.0.3226493.apk?spm=a219a.7629140.0.0.wdZKMD&file=10002068@Rimet-dingtalk-dev-4.3.0.3226493.apk)
