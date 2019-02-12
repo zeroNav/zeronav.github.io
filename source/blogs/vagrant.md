@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 layout: post
-title: vagrant terminal
+title: vagrant常用指令
 ---
 
 ## List
