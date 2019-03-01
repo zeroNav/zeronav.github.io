@@ -21,10 +21,10 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a3b3a0a58f1b2e5510fa2d200ed28229"
+    "revision": "0f3a344dec29928d0ff7e2a7d2e87107"
   },
   {
-    "url": "assets/css/0.styles.966e8b91.css",
+    "url": "assets/css/0.styles.36ba8d55.css",
     "revision": "14a656f0cb878c5ab67c1abed8d59f80"
   },
   {
@@ -96,8 +96,8 @@ self.__precacheManifest = [
     "revision": "bc54c3d3e0e14addd01a6e8cf03e4e43"
   },
   {
-    "url": "assets/js/vendor.commons.966e8b91.js",
-    "revision": "6ee45c70660a4c7ba4960118bdff6103"
+    "url": "assets/js/vendor.commons.36ba8d55.js",
+    "revision": "d7ae4bf22e895299deb3cac451f6ec36"
   },
   {
     "url": "assets/js/vendor.vue.63bbd286.js",
@@ -105,67 +105,67 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/accounts.html",
-    "revision": "1bd070d2b6b81f7ccfbf0de51538abfc"
+    "revision": "43d57433dcbb4a8fc3d15d5bdf79703e"
   },
   {
     "url": "blogs/BeyondCompare.html",
-    "revision": "5e6eb756efb6d910ae83e53738966fb0"
+    "revision": "923d990da3d0d0c046d5d8fdb9df3cee"
   },
   {
     "url": "blogs/charles.html",
-    "revision": "f2f5b71e8d44904fe032ca3b598b4fa0"
+    "revision": "791801a5a5216726d740e51b115361eb"
   },
   {
     "url": "blogs/earn.html",
-    "revision": "78f16f0debb6d1e094b58a1a83ae9e7a"
+    "revision": "bea42de0aed614ebabe4843b077290be"
   },
   {
     "url": "blogs/index.html",
-    "revision": "df5f57c5d527f5141c77c3609d082665"
+    "revision": "e5f72a0f76a70709fb4b1fdea4b24c5a"
   },
   {
     "url": "blogs/mac-app.html",
-    "revision": "96a486282a2fad67fea529be98348f6e"
+    "revision": "863b8c2dc819e8ad2c6a02b454832a47"
   },
   {
     "url": "blogs/vagrant.html",
-    "revision": "0957819d44b25016122fc672ad476387"
+    "revision": "76d0174b976741b4b387863bc016f4a6"
   },
   {
     "url": "blogs/vps.html",
-    "revision": "9f1975ea2eb48dbd7b099aed673af200"
+    "revision": "3862d1e6d30071e316ca637848d66049"
   },
   {
     "url": "develop/doc.html",
-    "revision": "c30d6fa3d682686a167ceb75c6c5f8bb"
+    "revision": "cd11afb82ba30a9935aa75d53ff95c4e"
   },
   {
     "url": "develop/frame.html",
-    "revision": "807bb2203cf0d84b0ab5cf38fbd3a22d"
+    "revision": "55bf867f81faf8bd62ecdf30f945493b"
   },
   {
     "url": "develop/ide.html",
-    "revision": "d4f4fe3f96f89cd2e69093f167fe39d8"
+    "revision": "66bced98fcbe7b79d4d1aaabc06a1a2a"
   },
   {
     "url": "develop/index.html",
-    "revision": "13c34880bacab12f258dd9ed1a4b324b"
+    "revision": "33eae5ffd4ab655584db80468c7d5610"
   },
   {
     "url": "develop/map.html",
-    "revision": "926665fac548db4e9214b39a94fe0770"
+    "revision": "7b1fa6cd99cc8c07c9f51fb6ae3f0790"
   },
   {
     "url": "develop/others.html",
-    "revision": "694849f1438f214e02bbcaba0581b40c"
+    "revision": "e50125430ebf6dd758af3fd05bb2cc75"
   },
   {
     "url": "develop/weapp.html",
-    "revision": "e69d5dbf50eb8784ca31277ccf753997"
+    "revision": "b24bd86b02e84733000fe7b240d37447"
   },
   {
     "url": "index.html",
-    "revision": "e2f571d009b387cb1169d48cd7c61f47"
+    "revision": "04740e011418ef7d5b0dca9bce105cb9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
