@@ -25,7 +25,6 @@ title: 友情链接
 + [同步盘·Dropbox](https://db.tt/c4wmojuTBA)
 + [同步盘·微力同步](http://verysync.com/)
 + [自建·NextCloud](https://nextcloud.com/)
-+ [115网盘](http://115.com/)
 + [百度网盘](http://yun.baidu.com)
 
 ## Linus系统下载

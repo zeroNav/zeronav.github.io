@@ -73,7 +73,7 @@ account: lumia**@xxx.xx
 password: 15******A*
 ```
 
-## WindScribe
+## `WindScribe`
 
 [WindScribe](https://windscribe.com/?friend=msj8dr01)
 
@@ -81,3 +81,13 @@ password: 15******A*
 account: lumia**@xxx.xx
 password: 15******A*
 ```
+
+## `PCloud`
+
+[Pcloud](https://my.pcloud.com/#page=register&invite=RYG57Z1vBJ3V)
+
+```bash
+account: lumia**@xx.xxx
+password: 15******n*
+```
+
